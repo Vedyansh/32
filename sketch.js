@@ -59,10 +59,10 @@ function setup() {
 }
 
 function draw() {
-  background(189);
+  background(backgroundImg);
 
   //write a correct line of code to display the background image
-  
+
 
   Engine.update(engine);
 
@@ -174,6 +174,5 @@ function handlePlayerArrowCollision() {
 }
 
 function handleComputerArrowCollision() {
-  //Write code to detect collision between computer arrow and opponent
+  //Write code to detect collision between computer arrow and oppon
 }
-
